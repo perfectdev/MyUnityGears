@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+    Andrew aka pdev (c) 2014
+ *  Created: 27.07.2014
+ */
+
+using System;
 using UnityEngine;
 
 public class AndroidHelper {
